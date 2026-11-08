@@ -1,0 +1,10 @@
+id: octop-office-editor
+version: 0.1.0
+name: Office 文件查看与编辑
+description: 在工作区内原地查看和编辑 Office / PDF 文件
+kind: tool
+entry: main.py
+icon: "📄"
+group: tools
+ui:
+  entry: ui/dist/index.js

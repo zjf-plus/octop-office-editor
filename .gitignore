@@ -1,0 +1,6 @@
+node_modules/
+ui/dist/
+public/editor/
+public/editor-*/
+public/.editor-staging/
+release/
